@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#8FA187"/>
+  <circle cx="50" cy="50" r="39" fill="none" stroke="#FFFDF8" stroke-width="1.4" opacity=".85"/>
+  <text x="50" y="70" text-anchor="middle" fill="#FFFDF8" font-family="'Dancing Script','Snell Roundhand',cursive" font-size="56" font-weight="600">e</text>
+</svg>

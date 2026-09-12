@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600" role="img" aria-label="Elements — Interior Design Studio by Shivani Shilotri">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&amp;family=Mulish:wght@600&amp;display=swap');
+      .arc{font-family:'Mulish','Segoe UI',sans-serif;font-weight:600;letter-spacing:6.5px;font-size:26px;fill:#FFFDF8;}
+      .wordmark{font-family:'Dancing Script','Brittany Signature','Snell Roundhand',cursive;font-size:150px;font-weight:600;fill:#FFFDF8;}
+    </style>
+    <path id="arcTop" d="M 92.7 160.2 A 250 250 0 0 1 507.3 160.2"/>
+    <path id="arcBottom" d="M 92.7 439.8 A 250 250 0 0 0 507.3 439.8"/>
+  </defs>
+  <circle cx="300" cy="300" r="300" fill="#8FA187"/>
+  <g fill="none" stroke="#FFFDF8" stroke-width="2.4" stroke-linecap="round" opacity="0.92">
+    <path d="M 83.4 216.9 A 232 232 0 0 1 516.6 216.9"/>
+    <path d="M 83.4 383.1 A 232 232 0 0 0 516.6 383.1"/>
+  </g>
+  <g class="arc">
+    <text><textPath xlink:href="#arcTop" startOffset="50%" text-anchor="middle">INTERIOR  DESIGN  STUDIO</textPath></text>
+    <text><textPath xlink:href="#arcBottom" startOffset="50%" text-anchor="middle">BY  SHIVANI  SHILOTRI</textPath></text>
+  </g>
+  <text x="300" y="332" text-anchor="middle" class="wordmark">Elements</text>
+</svg>

@@ -1,0 +1,26 @@
+/* Self-hosted fonts (latin subset) — Hammersmith One · Mulish · Dancing Script
+   Mulish & Dancing Script are variable fonts (one file covers the weight range). */
+
+@font-face {
+  font-family: 'Hammersmith One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/hammersmith-one-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url('../fonts/mulish.woff2') format('woff2-variations'),
+       url('../fonts/mulish.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 500 700;
+  font-display: swap;
+  src: url('../fonts/dancing-script.woff2') format('woff2-variations'),
+       url('../fonts/dancing-script.woff2') format('woff2');
+}
