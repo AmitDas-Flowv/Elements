@@ -40,7 +40,7 @@ window.ELEMENTS_DATA = {
       year: "2026",
       featured: true,
       blurb: "Production design for Flipkart's mobile-trust campaign film.",
-      image: null,
+      image: "https://vumbnail.com/1216934401.jpg",
       media: { type: "vimeo", id: "1216934401" },
       links: {
         vimeo: "https://vimeo.com/1216934401",
@@ -73,7 +73,7 @@ window.ELEMENTS_DATA = {
       year: "2026",
       featured: true,
       blurb: "An intimate, warm-lit world for Amanté's motherhood campaign.",
-      image: null,
+      image: "https://vumbnail.com/1128199006.jpg",
       media: { type: "vimeo", id: "1128199006" },
       links: {
         vimeo: "https://vimeo.com/1128199006",
@@ -90,7 +90,7 @@ window.ELEMENTS_DATA = {
       year: "2024",
       featured: true,
       blurb: "Digital-video campaign for the trading platform FYERS.",
-      image: null,
+      image: "https://vumbnail.com/1044894185.jpg",
       media: { type: "vimeo", id: "1044894185" },
       links: {
         vimeo: "https://vimeo.com/1044894185",
@@ -106,7 +106,7 @@ window.ELEMENTS_DATA = {
       year: "2025",
       featured: true,
       blurb: "Investing made playful — a clean, confident set language for StockGro.",
-      image: null,
+      image: "https://vumbnail.com/1094634082.jpg",
       media: { type: "vimeo", id: "1094634082" },
       links: {
         vimeo: "https://vimeo.com/1094634082",
@@ -138,7 +138,7 @@ window.ELEMENTS_DATA = {
       year: "2023",
       featured: true,
       blurb: "A moody, cinematic retail film for Croma's Black Friday event.",
-      image: null,
+      image: "assets/img/work/croma.jpg",
       media: { type: "vimeo", id: "886932611" },
       links: {
         vimeo: "https://vimeo.com/886932611",
@@ -170,7 +170,7 @@ window.ELEMENTS_DATA = {
       year: "2024",
       featured: true,
       blurb: "A tender Mother's Day film — sets built to make the smallest moments feel enormous.",
-      image: null,
+      image: "assets/img/work/mothers-day.jpg",
       media: null,
       links: {
         instagram: "https://www.instagram.com/reel/C68wkUMIXQJ/",
@@ -186,7 +186,7 @@ window.ELEMENTS_DATA = {
       year: "2024",
       featured: true,
       blurb: "A sunlit, garden-party world for Sorrentina's Honestly Italian campaign.",
-      image: null,
+      image: "assets/img/work/sorrentina.jpg",
       media: null,
       links: {
         instagram: "https://www.instagram.com/reel/C69F_xJIWZq/",
@@ -251,7 +251,7 @@ window.ELEMENTS_DATA = {
       year: "2023",
       featured: false,
       blurb: "A bold, contemporary set for Kindly Health.",
-      image: null,
+      image: "https://vumbnail.com/856023549.jpg",
       media: { type: "vimeo", id: "856023549" },
       links: {
         vimeo: "https://vimeo.com/856023549",
@@ -317,7 +317,7 @@ window.ELEMENTS_DATA = {
       featured: true,
       rooms: ["Living", "Master Bedroom", "Library", "Dining"],
       blurb: "A collector's home — deep teal walls, a floor-to-ceiling library and warm, characterful layering across four bedrooms.",
-      image: null,
+      image: "assets/img/work/chembur.jpg",
       media: null,
       links: {}
     },
@@ -330,7 +330,7 @@ window.ELEMENTS_DATA = {
       featured: true,
       rooms: ["Bedroom", "Living", "Bar Nook"],
       blurb: "Vintage-boho layering — rich rugs, patterned tile, gallery walls and a jewel-box bar counter.",
-      image: null,
+      image: "assets/img/work/bandra.jpg",
       media: null,
       links: { behance: "https://www.behance.net/gallery/164744853/3-BHK-Rental-Makeover-with-Attirail" }
     },
@@ -343,7 +343,7 @@ window.ELEMENTS_DATA = {
       featured: true,
       rooms: ["Living", "Dining", "Kitchen"],
       blurb: "Powder-blue block-print walls, blush upholstery and a curated art-and-craft mix throughout.",
-      image: null,
+      image: "assets/img/work/goregaon.jpg",
       media: null,
       links: {}
     },
@@ -356,7 +356,7 @@ window.ELEMENTS_DATA = {
       featured: true,
       rooms: ["Bedroom", "Gallery Wall"],
       blurb: "A serene, blush-and-sage bedroom — woven textures, brass sconces and a soft gallery wall.",
-      image: null,
+      image: "assets/img/work/andheri.jpg",
       media: null,
       links: {}
     },
